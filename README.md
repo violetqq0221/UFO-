@@ -27,3 +27,4 @@ the webpage is at
 * we should able to type with upper and lower cases to search.
 * we can add the range of date search to search bar. Sightings occurs frequently particlly month instead of a particilally date 
 * If can provide drop-down lists into the filed. it includes not only hightlighting search option when selected dropdown list. 
+1
