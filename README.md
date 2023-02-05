@@ -22,9 +22,8 @@ the webpage is at
 ![fig](https://github.com/violetqq0221/UFO-/blob/main/Image/state_filter.PNG)  
 
 # Summary:
-(1) the drawback of this websites: Need to type every letter in lower case letters and no spaces after at the end of text. 
+(1) the drawback of this websites: Need to type every letter in lower case letters and no spaces after at the end of text.   
 (2) recommendation: 
 * we should able to type with upper and lower cases to search.
 * we can add the range of date search to search bar. Sightings occurs frequently particlly month instead of a particilally date 
-* If can provide drop-down lists into the filed. it includes not only hightlighting search option when selected dropdown list. 
-1
+* If can provide drop-down lists into the filed. it includes not only hightlighting search option when selected dropdown list.
